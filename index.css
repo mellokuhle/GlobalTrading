@@ -14,7 +14,7 @@ grid-template-columns: auto auto;
 grid-column-gap: 300px;
 margin: 0px;
 padding: 10px;
-background: ("../images/forex.jpeg")
+background: rgba(0,0,0,0.8)
 color: white;
 width: 100%;
 }
